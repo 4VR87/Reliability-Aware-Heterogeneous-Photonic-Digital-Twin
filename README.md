@@ -1,0 +1,2 @@
+# Reliability-Aware-Heterogeneous-Photonic-Digital-Twin
+We propose a reliability-aware photonic digital twin coupling thermal and coherent circuit models with conformal prediction for safe control. In synthetic III-V/silicon tests, it achieved 96% simultaneous margin coverage, 56.2% availability, and zero unsafe authorizations, while reducing qualification responses by over 100× versus a dense grid.
